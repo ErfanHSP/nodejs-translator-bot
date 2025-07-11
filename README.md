@@ -1,2 +1,2 @@
 # nodejs-translator-bot
-This bot will lunch on telegram and use one-api services and api to translate users messages into english and etc.
+This bot lunches on Telegram and uses one-api services to communicate with google-translate api to translate user messages into english and etc.
